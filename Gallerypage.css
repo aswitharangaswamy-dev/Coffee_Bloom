@@ -137,7 +137,6 @@ body {
     display: flex;
     margin-top: 50px;
     height: 250px;
-    background-r;
 }
 
 .Happymoments1 img {
@@ -224,8 +223,7 @@ body {
 
 .gallerylogosymbol {
     width: 25%;
-    padding-top: 5px;
-    margin-left: 60px;
+        margin-left: 20px;
 }
 
 .gallerylogosymbol img {
@@ -248,7 +246,7 @@ body {
     width: 25%;
     color: white;
     padding-left: 60px;
-    padding-top: 10px;
+    padding-top: 5px;
     /* padding: 100px; */
     letter-spacing: 3px;
     font-size: 30px;
@@ -258,8 +256,8 @@ body {
 .galleryusefullinkheading h3 {
     color: #e6b36a;
     letter-spacing: 2px;
-    margin-bottom: 70px;
     font-size: 40px;
+    padding-bottom: 70px;
 
 }
 
@@ -268,6 +266,7 @@ body {
     padding-right: 100px;
     letter-spacing: 2px;
     padding-left: 20px;
+    padding-bottom: 15px;
 
 }
 

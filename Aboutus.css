@@ -362,27 +362,24 @@ body {
 .aboutusefullinkheading {
     width: 25%;
     color: white;
-    padding-left: 60px;
+    padding-left: 50px;
     letter-spacing: 3px;
-    /* margin-right: 10px; */
-    font-size: 25px;
 }
 
 .aboutusefullinkheading h3 {
     color: #e6b36a;
     letter-spacing: 2px;
-    margin-bottom: 40px;
-    font-size: 35px;
+    padding-bottom: 60px;
+    font-size: 40px;
+    padding-top: 60px;
 
 }
 
 .aboutusefullinkheading h4 {
     font-size: 25px;
-    /* padding: 4px; */
-    padding-right: 70px;
     letter-spacing: 2px;
-    padding: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
+    padding-left: 13px;
 }
 
 
@@ -431,19 +428,20 @@ body {
     font-size: 43px;
     color: #e6b36a;
     font-size: 40px;
-     padding-left: 10px;
+     padding-left: 3px;
     letter-spacing: 2px;
     margin-top: 40px;
 padding-top: 25px;
+padding-bottom: 20px;
 
 }
 
 .aboutfootercontact h4 {
     font-size: 25px;
     /* padding: 4px; */
-    padding-right: 80px;
     letter-spacing: 2px;
-    margin-top: 35px;
+    margin-top: 20px;
+    padding-left: 10px;
     
 
 }
