@@ -1,0 +1,344 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+
+    padding: 0px;
+    background-color: #4a2717;
+}
+
+
+.row1 {
+    padding: 0px;
+    display: flex;
+    gap: 40px;
+    background-color: white;
+}
+
+.col1 img {
+    width: 200px;
+    height: 100px;
+    padding-left: 50px;
+}
+
+.col1 {
+    width: 50%;
+}
+
+.col2 {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    width: 50%;
+    gap: 20px;
+}
+
+.col2 ul li {
+    display: inline;
+    padding-left: 60px;
+    font-weight: 800;
+}
+
+
+
+
+.Gallarybackground h2 {
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 40px;
+
+}
+
+.Gallarybackground img {
+    border-radius: 30px;
+    padding-top: 100px;
+    width: 100%;
+}
+
+.Gallaryheading {
+    text-align: center;
+    color: #e6b36a;
+    padding-top: 100px;
+    font-size: 30px;
+
+}
+
+.Gallaryheading h5 {
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 50px;
+
+}
+
+.Gallaryimagesdiplayed {
+    display: flex;
+    margin-top: 50px;
+
+
+}
+
+.Gallarycoffee img {
+    width: 100%;
+    height: 50%;
+    padding-left: 100px;
+    padding-right: 20px;
+    border-radius: 30px;
+    padding-bottom: 30px;
+}
+
+.Gallarycoffee2 {
+    padding-top: 20px;
+}
+
+.Gallaryplace img {
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+
+
+}
+
+.Gallarybrowini img {
+    width: 90%;
+    height: 50%;
+    padding-right: 10px;
+    padding-left: 25px;
+    border-radius: 30px;
+
+
+}
+
+.galleryhappymoment {
+    height: 90%;
+    padding-top: 20px;
+}
+
+.Happyquotes h2 {
+    padding-left: 550px;
+    color: #e6b36a;
+    padding-top: 150px;
+    font-size: 50px;
+    word-spacing: 3px;
+
+}
+
+.Happyquotes h3 {
+    color: #f4e4c3;
+    padding-left: 350px;
+    padding-top: 40px;
+    font-size: 30px;
+}
+
+.joyfullmomentimage {
+    display: flex;
+    margin-top: 50px;
+    height: 250px;
+    background-r;
+}
+
+.Happymoments1 img {
+    width: 100%;
+    height: 100%;
+    padding-left: 30px;
+    margin-left: 40px;
+    border-radius: 30px;
+}
+
+.Happymoments2 img {
+    width: 115%;
+    height: 100%;
+    padding-right: 50px;
+    margin-right: 100%;
+    padding-left: 60px;
+    border-radius: 30px;
+    gap: 10px;
+
+
+
+}
+
+.Happymoments3 img {
+    width: 105%;
+    height: 100%;
+    padding-right: 9%;
+    border-radius: 30px;
+    padding-left: 15px;
+
+
+
+
+
+}
+
+.Happymoments4 img {
+    width: 100%;
+    height: 100%;
+    padding-right: 80px;
+    margin-right: 10px;
+    border-radius: 30px;
+}
+.Gallaryjorney h2{
+    color: #e6b36a;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 40px;
+
+    
+}
+.Gallaryjorney h4{
+        color: #f4e4c3;
+        padding-left: 400px;
+        padding-top: 50px;
+        font-size: 30px;
+        word-spacing: 2px;
+
+}
+.instapage h2{
+    width: fit-content;
+    height: fit-content;
+    background: #d4a24c;
+    color: #f4e4c3;
+    margin-left: 600px;
+    margin-top: 30px;
+    border-radius: 30px;
+  
+
+}
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.galleryhomepagefooter {
+    margin-top: 200px;
+    margin-bottom: 60px;
+    display: flex;
+    margin-top: 1px;
+}
+
+
+.gallerylogosymbol {
+    width: 25%;
+    padding-top: 5px;
+    margin-left: 60px;
+}
+
+.gallerylogosymbol img {
+    height: 250px;
+    padding: 30px;
+}
+
+.gallerylogosymbol p {
+    color: #f5e5d2;
+    font-size: 20px;
+    padding-top: 1px;
+    padding-left: 15px;
+
+}
+
+
+
+
+.galleryusefullinkheading {
+    width: 25%;
+    color: white;
+    padding-left: 60px;
+    padding-top: 10px;
+    /* padding: 100px; */
+    letter-spacing: 3px;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+.galleryusefullinkheading h3 {
+    color: #e6b36a;
+    letter-spacing: 2px;
+    margin-bottom: 70px;
+    font-size: 40px;
+
+}
+
+.galleryusefullinkheading h4 {
+    font-size: 25px;
+    padding-right: 100px;
+    letter-spacing: 2px;
+    padding-left: 20px;
+
+}
+
+
+
+
+
+
+.galleryfooterLocations h2{
+    width: 25%;
+    color: #e6b36a;
+    letter-spacing: 2px;
+    font-size: 40px;
+    padding-bottom: 80px;
+    padding-top: 28%;
+
+}
+.galleryfooterLocations h3{
+    color: white;
+    word-spacing: 5px;
+
+}
+
+
+
+
+.galleryfootercontact h3{
+padding-bottom: 60px;
+font-size: 38px;
+color: #e6b36a;
+padding-top: 100px;
+padding-left: 70px;
+}
+.galleryfootercontact h4{
+    color: white;
+    padding-left: 70px;
+    font-size: 20px;
+    word-spacing: 10px;
+    padding-bottom: 0px;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
